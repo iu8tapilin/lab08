@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/iu8tapilin/lab07.svg?branch=master)](https://travis-ci.org/iu8tapilin/lab08)
+[![Build Status](https://travis-ci.org/iu8tapilin/lab08.svg?branch=master)](https://travis-ci.org/iu8tapilin/lab08)
 
 
 
